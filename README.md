@@ -1,10 +1,7 @@
 ## Hi there, 👋 I'm Devi -- Enthusiastic And Determinant girl✨👩
 👩‍🎓 Graduated Engineering student </br>
 👩‍💻 Aspiring Software Developer</br>
-💡 Interested in Machine Learning & Real-Time Applications & UI/UX Design</br>
-I'm Currently focusing on learning DSA in CPP & Front-end development</br>
-I'm Enthusiastic person to learn--Learnaholic😉</br>
-
+💡 Interested in Machine Learning & Real-Time Applications & UI/UX Design & DSA in CPP & Front-end</br>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
