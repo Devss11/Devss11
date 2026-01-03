@@ -1,5 +1,5 @@
 ## Hi there, 👋 I'm Devi
-👩‍🎓 Graduated Engineering student </br>
+👩‍🎓 A recent Computer Science & Engineering graduate </br>
 👩‍💻 Aspiring Software Development Engineer </br>
 💡 Interested in Machine Learning & Real-Time Applications & UI/UX Design & DSA in Python & Full-Stack Development</br>
 
